@@ -1,4 +1,4 @@
-# pointnet2_torch_cuda11
+# pointnet2_torch_cuda
 
 - A new implementation for PointNet++, https://arxiv.org/abs/1706.02413
 
