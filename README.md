@@ -31,8 +31,8 @@ nvcc --version
 - Install:
 
 ```
-git clone https://github.com/sijieaaa/pointnet2_torch_cuda11.git
-cd pointnet2_torch_cuda11
+git clone https://github.com/sijieaaa/pointnet2_torch_cuda.git
+cd pointnet2_torch_cuda
 python setup.py install
 ```
 
